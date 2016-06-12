@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 out
 target
 
@@ -51,10 +52,15 @@ Temporary Items
 .apdisk
 
 =======
+=======
+>>>>>>> 708ea6fdde77fbd4a53a33f29e9e4fda01f11d73
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
+>>>>>>> 708ea6fdde77fbd4a53a33f29e9e4fda01f11d73
+=======
 >>>>>>> 708ea6fdde77fbd4a53a33f29e9e4fda01f11d73
