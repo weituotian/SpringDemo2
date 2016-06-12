@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 out
 target
 
@@ -49,3 +50,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 708ea6fdde77fbd4a53a33f29e9e4fda01f11d73
