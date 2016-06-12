@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PluginProjectConfig">
+    <option name="path" value="$PROJECT_DIR$/SpringHibernate/src/main/java/com/weituotian/dao" />
+    <option name="sql" value="CREATE TABLE `class` (&#10; `id` int(11) NOT NULL,&#10; `name` varchar(45) DEFAULT NULL,&#10; PRIMARY KEY (`id`)&#10;) ENGINE=InnoDB DEFAULT CHARSET=utf8" />
+  </component>
+</project>
